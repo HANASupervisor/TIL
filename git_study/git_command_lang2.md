@@ -98,8 +98,8 @@ HEAD가 f7b3a3d로 이동했습니다.
 
 ## TIL (Today I Learned)
 
-- 학습한 내용을 기록하고 정리하여 활용도를 높입니다.
-- 단순 이론 기록에 그치지 말고, 이를 실무에 적용하거나 문제 해결에 사용한 사례를 포함하세요.
+- git command language를 사용하던 도중 실수하면 revert또는 reset함수를 이용하여 수정한다.
+- chatgpt api를 활용하여 챗봇을 구현하고 구현된 챗봇에 질문하여 transformer 알고리즘에대한 이해를 강화할수 있다.
 
 #### 예제 형식:
 ```markdown
