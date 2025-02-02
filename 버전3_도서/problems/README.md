@@ -1,7 +1,0 @@
-버전3_도서 부분에서 알라딘 API키 발급받은 부분에 
-API키 직접 발급받으셔서 넣으셔야합니다. 
-다른코드는 다 완성되어있으니 API만 발급받아 입력한후 돌려보신다면 재현이 가능합니다.
-MY_TTBKEY = os.getenv('나의 알라딘 API 키')
-
-아래 사이트에 들어가셔서 OpenAPI 발급받고 사용하시면 됩니다. 
-https://blog.aladin.co.kr/openapi/popup/6695306
