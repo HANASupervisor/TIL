@@ -28,6 +28,10 @@ def fetch_books(keyword):  # keyword: 검색할 키워드
 
     return data
 
+## 여기 books를 보면 리스트안에 딕셔너리 들어간 형태
+## [{title, priceStandard}{title, priceStandard}{title, priceStandard}]
+## 그래서 for문을 돌리면 {title, priceStandard} 이런식으로 딕셔너리 하나가 book에
+## 할당됨.
 
 # '펭귄' 키워드를 사용하여 도서 검색 데이터를 가져옵니다.
 result = fetch_books('펭귄')
